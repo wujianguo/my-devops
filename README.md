@@ -7,3 +7,12 @@
 - [yapi](https://github.com/YMFE/yapi)
 - [parse](https://parseplatform.org/)
 - [sonar](https://www.sonarqube.org/)
+
+### gitlab
+``` sh
+docker exec -it gitlab_web_1 /bin/bash
+user = User.where(id:1).first
+user.password="your password"
+user.password_confirmation="your password"
+user.save
+```

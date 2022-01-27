@@ -7,6 +7,7 @@
 - [yapi](https://github.com/YMFE/yapi)
 - [parse](https://parseplatform.org/)
 - [sonar](https://www.sonarqube.org/)
+- [focalboard](https://www.focalboard.com/)
 
 ### gitlab
 ``` sh
